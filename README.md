@@ -12,3 +12,6 @@ PROBLEM: Estimate the selling price of a car based on its characteristics
 - PASSAGE TO DETECTION + DELETION OF OUTLIERS
 - TRANSITION TO LINEAR REGRESSION
 - MOVING TO FEATURE IMPORTANCE
+
+
+TEST
