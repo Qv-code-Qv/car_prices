@@ -1,15 +1,14 @@
-Installation :
-- Editeur de code (VScode)
+installation :
+
+- Code editor (VScode)
 - Python
-- Anacondas, pour les librairies pandas 
-ou à installer manuellement si vous préférez
+- Anacondas, for pandas libraries or to install manually if you prefer
 
+PROBLEM: Estimate the selling price of a car based on its characteristics
 
-PROBLEMATIQUE : Estimer le prix de vente d’une voiture en fonction de ses caractéristiques
-
-- ANALYSE EXPLORATOIRE DES DONNÉES
-- NETTOYAGE 
-- MODIFICATION DES VARIABLES ET REGROUPEMENT DES COLONNES
-- PASSAGE A DETECTION + SUPPRESSION DES OUTLIERS
-- PASSAGE A LA REGRESSION LINEAIRE
-- PASSAGE AU FEATURE IMPORTANCE
+- EXPLORATORY DATA ANALYSIS
+- CLEANING
+- MODIFYING VARIABLES AND GROUPING COLUMNS
+- PASSAGE TO DETECTION + DELETION OF OUTLIERS
+- TRANSITION TO LINEAR REGRESSION
+- MOVING TO FEATURE IMPORTANCE
